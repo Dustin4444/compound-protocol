@@ -23,7 +23,7 @@
     "bignumber.js": "9.0.0",
     "eth-saddle": "^0.1.25",
     "ethers": "^5.0.8",
-    "immutable": "^4.0.0-rc.12",
+    "immutable": "^4.3.9",
     "truffle-flattener": "^1.4.4",
     "web3": "^1.2.11"
   },
